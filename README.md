@@ -1,6 +1,6 @@
 # Hello-World
-Learning Git
-Four score and seven years ago, our fathers brought forth upon this continent a new nation: conceived in liberty, and dedicated to the proposition that all men are created equal.
+
+Four score and seven years ago, our ancestors brought forth upon this continent a new nation: conceived in liberty, and dedicated to the proposition that all men are created equal.
 
 Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battlefield of that war.
 
